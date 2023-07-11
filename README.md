@@ -9,6 +9,13 @@
   <img height=200 align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=stephenwang0317&layout=compact&exclude_repo=GLaDOS-checkin&theme=tokyonight&card_width=200" />
 </a>
 
+<a href="https://github.com/stephenwang0317">
+  <img align="center" src="https://github-readme-stats.vercel.app/api?username=stephenwang0317&show_icons=true&theme=tokyonight&card_width=200" />
+</a>
+<a href="https://github.com/stephenwang0317">
+  <img align="center" src=""https://github-readme-stats.vercel.app/api/top-langs/?username=stephenwang0317&layout=compact&exclude_repo=GLaDOS-checkin&theme=tokyonight&card_width=200" />
+</a>
+
 
 
 

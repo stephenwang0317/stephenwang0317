@@ -3,10 +3,10 @@
 ![visitors](https://count.getloli.com/get/@stephenwang0317?theme=asoul)
 
 <a href="https://github.com/stephenwang0317">
-  <img align="center" src="https://github-readme-stats.vercel.app/api?username=stephenwang0317&show_icons=true&theme=highcontrast&card_width=200" />
+  <img height=200 align="center" src="https://github-readme-stats.vercel.app/api?username=stephenwang0317&show_icons=true&theme=highcontrast&card_width=200" />
 </a>
 <a href="https://github.com/stephenwang0317">
-  <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=stephenwang0317&layout=compact&exclude_repo=GLaDOS-checkin&theme=highcontrast&card_width=420" />
+  <img height=200 align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=stephenwang0317&layout=compact&exclude_repo=GLaDOS-checkin&theme=highcontrast&card_width=320" />
 </a>
 
 

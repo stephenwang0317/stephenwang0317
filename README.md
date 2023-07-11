@@ -1,5 +1,9 @@
 ### Hi there 👋
 
+![Stephen Wang's GitHub stats](https://github-readme-stats.vercel.app/api?username=stephenwang0317&show_icons=true&theme=tokyonight)
+
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=stephenwang0317&layout=compact&exclude_repo=GLaDOS-checkin)
+
 <!--
 **stephenwang0317/stephenwang0317** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 

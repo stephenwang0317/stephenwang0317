@@ -2,17 +2,11 @@
 
 ![visitors](https://count.getloli.com/get/@stephenwang0317?theme=asoul)
 
-![Stephen Wang's GitHub stats](https://github-readme-stats.vercel.app/api?username=stephenwang0317&show_icons=true&theme=tokyonight)
-
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=stephenwang0317&layout=compact&exclude_repo=GLaDOS-checkin)
-
-
-
 <a href="https://github.com/stephenwang0317">
   <img height=200 align="center" src="https://github-readme-stats.vercel.app/api?username=stephenwang0317&show_icons=true&theme=tokyonight" />
 </a>
 <a href="https://github.com/stephenwang0317)">
-  <img height=200 align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=stephenwang0317&layout=compact&exclude_repo=GLaDOS-checkin&card_width=320" />
+  <img height=200 align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=stephenwang0317&layout=compact&exclude_repo=GLaDOS-checkin&theme=tokyonight" />
 </a>
 
 
